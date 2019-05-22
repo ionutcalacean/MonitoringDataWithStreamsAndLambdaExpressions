@@ -1,0 +1,14 @@
+DayOfMonth:1 {Breakfast=1, Toileting=2, Grooming=3, SpareTimeTV=6, Sleeping=1, Leaving=1, Showering=1, Lunch=1}
+DayOfMonth:2 {Breakfast=1, Toileting=3, Grooming=4, Sleeping=1, SpareTimeTV=7, Snack=1, Showering=1, Lunch=1}
+DayOfMonth:3 {Breakfast=1, Grooming=3, Toileting=2, SpareTimeTV=4, Sleeping=1, Leaving=1, Showering=1}
+DayOfMonth:4 {Breakfast=1, Grooming=2, Toileting=4, SpareTimeTV=6, Sleeping=1, Leaving=1, Snack=2, Showering=1}
+DayOfMonth:5 {Breakfast=1, Toileting=5, Grooming=6, SpareTimeTV=7, Sleeping=1, Leaving=2, Snack=1, Showering=1, Lunch=1}
+DayOfMonth:6 {Breakfast=1, Grooming=4, Toileting=3, SpareTimeTV=5, Sleeping=1, Snack=1, Showering=1, Lunch=1}
+DayOfMonth:7 {Breakfast=1, Toileting=6, Grooming=5, Sleeping=1, SpareTimeTV=8, Leaving=1, Snack=2, Showering=1, Lunch=1}
+DayOfMonth:8 {Breakfast=1, Toileting=1, Grooming=5, SpareTimeTV=4, Sleeping=1, Leaving=1, Showering=1}
+DayOfMonth:9 {Breakfast=1, Toileting=2, Grooming=5, SpareTimeTV=6, Sleeping=1, Leaving=2, Showering=1}
+DayOfMonth:10 {Breakfast=1, Toileting=1, Grooming=4, Sleeping=1, SpareTimeTV=3, Leaving=2, Showering=1}
+DayOfMonth:11 {Breakfast=1, Toileting=2, Grooming=3, Sleeping=1, SpareTimeTV=3, Showering=1, Lunch=1}
+DayOfMonth:28 {Breakfast=1, Grooming=2, Toileting=3, SpareTimeTV=4, Sleeping=1, Leaving=1, Snack=1, Showering=1, Lunch=1}
+DayOfMonth:29 {Breakfast=1, Grooming=3, Toileting=4, SpareTimeTV=6, Sleeping=1, Leaving=1, Snack=1, Showering=1, Lunch=1}
+DayOfMonth:30 {Breakfast=1, Grooming=2, Toileting=6, SpareTimeTV=8, Sleeping=1, Leaving=1, Snack=2, Showering=1, Lunch=1}

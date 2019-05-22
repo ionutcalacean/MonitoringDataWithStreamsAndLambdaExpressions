@@ -1,0 +1,1 @@
+Activities duration greater than 10 hours:{SpareTimeTV=103, Sleeping=124, Leaving=22}

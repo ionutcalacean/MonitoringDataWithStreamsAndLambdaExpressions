@@ -1,0 +1,1 @@
+{Breakfast=14, Grooming=51, Toileting=44, SpareTimeTV=77, Sleeping=14, Leaving=14, Snack=11, Showering=14, Lunch=9}
